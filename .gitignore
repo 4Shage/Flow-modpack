@@ -1,6 +1,7 @@
 
 /.fabric/processedMods
 /config/
+!/config/bcc.json
 /journeymap
 /modernfix
 /logs
