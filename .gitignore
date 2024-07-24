@@ -2,6 +2,7 @@
 /.fabric/processedMods
 /config/*
 !/config/bcc.json
+!/config/NoChatReports/NCR-Client.json
 /journeymap
 /modernfix
 /logs
@@ -17,3 +18,4 @@ servers.dat_old
 profile.json
 usercache.json
 usernamecache.json
+/crash-reports
