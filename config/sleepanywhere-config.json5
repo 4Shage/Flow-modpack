@@ -1,0 +1,9 @@
+{
+	"hungerEffect": 5,
+	"nauseaEffect": 5,
+	"blindnessEffect": 5,
+	"darknessEffect": 0,
+	"fatigueEffect": 10,
+	"weaknessEffect": 10,
+	"slownessEffect": 10
+}
