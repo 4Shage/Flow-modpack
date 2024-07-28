@@ -1,8 +1,5 @@
 
 /.fabric/processedMods
-/config/*
-!/config/bcc.json
-!/config/NoChatReports/NCR-Client.json
 /journeymap
 /modernfix
 /logs
