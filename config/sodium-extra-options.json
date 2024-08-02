@@ -27,7 +27,9 @@
     "fog_distance": 0,
     "fog_start": 100,
     "multi_dimension_fog_control": false,
-    "dimensionFogDistance": {},
+    "dimensionFogDistance": {
+      "minecraft:overworld": 0
+    },
     "light_updates": true,
     "item_frame": true,
     "armor_stand": true,
@@ -52,9 +54,9 @@
     "advancement_toast": true,
     "recipe_toast": true,
     "system_toast": true,
-    "tutorial_toast": true,
+    "tutorial_toast": false,
     "instant_sneak": false,
-    "prevent_shaders": false,
+    "prevent_shaders": true,
     "steady_debug_hud": true,
     "steady_debug_hud_refresh_interval": 1
   },
