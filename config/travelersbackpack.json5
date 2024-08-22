@@ -196,6 +196,8 @@
 			// Offsets to up
 			"offsetY": 30
 		},
+		// Whether the backpack icon should be visible in player's inventory
+		"showBackpackIconInInventory": true,
 		// Sends a message to the player on death with backpack coordinates
 		"sendBackpackCoordinatesMessage": true,
 		// Enables legacy GUI (Blue slots for storage, brown for crafting and green for tools)
